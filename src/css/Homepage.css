@@ -1,0 +1,84 @@
+.text-primary {
+    color: #007bff;
+}
+
+.text-purple {
+    color: #8064A2;
+}
+
+
+.card-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-hover:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+#UserSec:hover {
+    background-color: #8064A2;
+    color: white;
+}
+
+#PlaceSec:hover {
+    background-color:#77933C;
+    color: white;
+}
+
+.card-hover .Usersicon {
+    font-size: 3rem;
+    color: #8064A2;
+    margin-bottom: 1rem;
+}
+.card-hover:hover .Usersicon {
+    color: white;
+}
+
+.card-hover .Placeicon {
+    font-size: 3rem;
+    color: #77933C;
+    margin-bottom: 1rem;
+}
+.card-hover:hover .Placeicon {
+    color: white;
+}
+
+#ProductSec:hover {
+    background-color: #C0504D;
+    color: white;
+}
+#ProgramSec:hover {
+    background-color: #0096C8;
+    color: white;
+}
+.card-hover .Producticon {
+    font-size: 3rem;
+    color: #C0504D;
+    margin-bottom: 1rem;
+}
+.card-hover:hover .Producticon {
+    color: white;
+}
+.card-hover:hover .Programicon {
+    color: white;
+}
+
+.card-hover .Programicon {
+    font-size: 3rem;
+    color: #0096C8;
+    margin-bottom: 1rem;
+}
+
+.btn-outline-purple {
+    border-color: #8064A2;
+    color: #8064A2;
+}
+
+.btn-outline-purple:hover {
+    background-color: #8064A2;
+    color: white;
+}
+.card-text {
+    text-align: left;
+}

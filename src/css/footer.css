@@ -1,0 +1,47 @@
+footer {
+    background-color: #f8f9fa;
+  }
+  
+  footer h5 {
+    font-weight: bold;
+  }
+  
+  footer ul {
+    padding-left: 0;
+  }
+  
+  footer ul li {
+    list-style: none;
+    margin-bottom: 0.5rem;
+  }
+  
+  footer ul li a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  footer ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  footer .input-group .form-control {
+    border-radius: 0;
+  }
+  
+  footer .input-group .btn {
+    border-radius: 0;
+  }
+  
+  footer .list-unstyled.d-flex li {
+    margin-right: 0.5rem;
+  }
+  
+  footer .list-unstyled.d-flex li a {
+    font-size: 1.5rem; /* Adjust the size of the icons */
+    color: #000;
+  }
+  
+  footer .list-unstyled.d-flex li a:hover {
+    color: #007bff;
+  }
+  

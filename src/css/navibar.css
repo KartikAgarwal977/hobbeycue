@@ -1,0 +1,45 @@
+.brand-text {
+    font-weight: bold;
+    color: #8064A2; 
+}
+.navbar-collapse {
+    margin-right: 0;
+    flex-direction: row-reverse;
+}
+.Container {
+    background-color: rgb(199, 29, 29);
+}
+
+.tagline {
+    font-size: 0.9rem;
+    color: #888;
+    margin-left: 0.5rem;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    color: #8064A2; 
+}
+
+.nav-item i {
+    margin-right: 0.3rem;
+}
+
+.sign-in-button {
+    border: 1px solid #8064A2;
+    border-radius: 5px;
+    padding: 0.3rem 1rem;
+    color: #8064A2;
+}
+
+.sign-in-button:hover {
+    background-color: #8064A2;
+    color: white;
+}
+.navbar-brand img {
+    min-width: 50px;
+    min-height: 20px;
+    max-width: 325px;
+    max-height: 50px;
+}
